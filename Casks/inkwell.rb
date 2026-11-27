@@ -7,7 +7,7 @@ cask "inkwell" do
   desc "Menu bar app that fixes, rewrites or answers text in any app via triggers"
   homepage "https://github.com/devrahulbanjara/inkwell"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Inkwell.app"
 
