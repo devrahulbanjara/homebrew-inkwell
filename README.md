@@ -3,9 +3,7 @@
 Homebrew tap for [Inkwell](https://github.com/devrahulbanjara/inkwell), a macOS menu bar app that fixes, rewrites or answers text in any app when you type a trigger like `?fix`.
 
 ```sh
-brew tap devrahulbanjara/inkwell
-brew trust devrahulbanjara/inkwell
-brew install --cask inkwell
+brew install --cask devrahulbanjara/inkwell/inkwell
 ```
 
 To update later, run `brew upgrade --cask inkwell`.
