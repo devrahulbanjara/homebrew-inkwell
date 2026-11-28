@@ -1,6 +1,6 @@
 cask "inkwell" do
-  version "0.1.1"
-  sha256 "0398b9947cf876fbf9d09eaea7492c557d881c4fd3c11d7d7a67ac6b2065f00c"
+  version "0.2.0"
+  sha256 "83d0d410a41728e8ec89c5d7fa2d47083d61218aaee5180dff6e41385c8be7ec"
 
   url "https://github.com/devrahulbanjara/inkwell/releases/download/v#{version}/Inkwell-#{version}.dmg",
       verified: "github.com/devrahulbanjara/inkwell/"
